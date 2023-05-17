@@ -49,22 +49,9 @@ LIVE NOW &#x1F534
 - : Java JDK 8+
 - : Tomcat v8.0
 - : Apache Maven
-- 
-### ========== Dummy Database Initialization USing SQLDUMP =====================
 
-STEPS: If you want to create table structure with dummy database, then follow the Steps given <a target="_blank" href="https://github.com/shashirajraja/Tender-Management-System/blob/master/DataBase/how-to-import-sql-dump-file.md">Here Inside DataBase/how-to-import-sql-dump-file</a>
 
-### ================= Dummy Database Initialization USING QUERY =================
-
-STEP 1: Open MySQL Command Prompt or MySQL Workbench
-
-STEP 2: Login to the administrator user as : ```mysql -u <username> -p``` (Enter Password if asked)
-
-STEP 3: Copy paste the following MySql Commands-
-```MySQL
-create database tender;
-
-commit;
+DATABASE-SQL
 
 use tender;
 
