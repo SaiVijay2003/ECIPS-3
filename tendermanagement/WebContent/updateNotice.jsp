@@ -4,7 +4,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
   <head>
-    <link rel="shortcut icon" type="image/png" href="images/Banner_Hit.png">
+    <link rel="shortcut icon" type="image/png" href="https://s.yimg.com/fz/api/res/1.2/_Ikjdphaqhw1SNAeWYcfHw--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MjU2/https://s.yimg.com/zb/imgv1/a525c520-1f34-3a8d-b06d-008f0b5605ba/t_500x300">
     <!--link rel="shortcut icon" type="image/ico" href="images/hit_fevicon.ico"-->
 	
     <meta charset="utf-8">

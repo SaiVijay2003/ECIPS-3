@@ -35,11 +35,11 @@
                 <!-- Wrapper for slides -->
                
                 <div class="carousel-inner" style="width:100%; height: 500px !important;">
-                    <div class="item active"> <img src="images/home1.jpg" style="width:100%; height: 500px"> </div>
-                    <div class="item active"> <img src="images/library1.png" style="width:100%; height: 500px"> </div>
-                    <div class="item"> <img src="images/cap.jpg" style="width:100%; height: 500px"> </div>
-                    <div class="item"> <img src="images/onwork.jpg" style="width:100%; height: 500px"> </div>
-                    <div class="item"> <img src="images/building.jpg" style="width:100%; height: 500px"> </div>
+                    <div class="item active"> <img src="https://sewellbeard.com/wp-content/uploads/2021/02/us-72-west-road-project.jpeg" style="width:100%; height: 500px"> </div>
+                    <div class="item active"> <img src="https://blog.chron.com/txpotomac/files/2011/09/highway-construction.jpg" style="width:100%; height: 500px"> </div>
+                    <div class="item"> <img src="https://www.beingguru.com/wp-content/uploads/2017/02/RC2.jpg" style="width:100%; height: 500px"> </div>
+                    <div class="item"> <img src="https://tse3.mm.bing.net/th?id=OIP.mDKSCllXdQ4CD5RSx89tQgHaFT&pid=Api&P=0" style="width:100%; height: 500px"> </div>
+                    <div class="item"> <img src="https://tse3.mm.bing.net/th?id=OIP.ziNolYpPBquBAg2znZ8cjgHaE7&pid=Api&P=0" style="width:100%; height: 500px"> </div>
                     <div class="item"> <img src="images/building2.jpg" style="width:100%; height: 500px"> </div>
                 </div>
 
