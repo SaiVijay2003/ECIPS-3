@@ -1,4 +1,4 @@
-#### STEPS FOR IMPORTING THE DUMMY DATABASE USING THE DUMP FILE AVAILABLE
+#### STEPS FOR IMPORTING THE DUMMY DATABASE USING THE DUMP FILE AVAILABLEe
 
 STEP 1: Download the Sql Dump File Available inside <a href="https://github.com/shashirajraja/Tender-Management-System/blob/master/DataBase/tender.sql">DataBase/tender.sql</a> file. Or <a href="https://downgit.github.io/#/home?url=https://github.com/shashirajraja/Tender-Management-System/blob/master/DataBase/tender.sql">Click Here to Download the tender.sql file.</a>
 
