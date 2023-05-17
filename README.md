@@ -101,34 +101,3 @@ INSERT INTO tenderstatus VALUES ('T20190725022124','B20190725023010','Assigned',
 commit;
 
 ```
-	
-### ====== Importing and Running the Project Through Eclipse EE ===========
-Step 0: Open Eclipse Enterprise Edition. [Install if not available]
-
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Tender-Management-System.git``` > Next > Select Master Branch > Select Tender-Management-System\tendermanagement (Eclipse Project) > Next > Finish
-
-Step 2.a: Go inside ```tendermanagement > Java Resources > dbdetails.properties``` and update the value of username and password according to your installed mysql admin credentials
-
-Step 2.b: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
-
-Step 3: Right click on Project > Maven > Update Project > Select Project Name > Select Force Update > Update
-
-Step 4.1: [Only if Tomcat v8.0 is not Configured in Eclipse]: Right Click On Project > Run As > Run On Server > Select Tomcat v8.0 > (Select Tomcat V8.0 Installation Location If Asked) Next > Add <project-name> > Finish
-
-Step 4.2: In The Server Tab > Double Click On Tomcat Server > Ports  > Change The Port Number For Http/1.1 To 8083 > Close And Save
-
-Step 5: Right Click On Project > Run As > Run On Server > Select Tomcat V8.0 > Next > Add All> Done
-
-Step 6: Check Running The Site At  <a Href="http://localhost:8083/tendermanagement/">http://localhost:8083/tendermanagement/</a> (Best Viewed in chrome desktop version)
-
-Step 7: Default Username And Password For Admin Is "Admin" and "Admin" respectively. [Case-Sensitive]
-
-Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi" respectively.
-
-
-
-#### "Suggestions and project Improvements are always Invited!"
-
-<bold>Thanks a lot</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
