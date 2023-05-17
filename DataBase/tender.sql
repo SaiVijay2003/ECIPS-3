@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 5.1.45, for Win32 (ia32)
+-- MySQL dump 10.13  Distrib 5.1.45, for Win32 (ia32)m
 --
 -- Host: localhost    Database: tender
 -- ------------------------------------------------------
